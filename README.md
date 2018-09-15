@@ -20,7 +20,7 @@ Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salv
 
 Bryan Magers    https://www.github.com/bmagers   www.linkedin.com/in/bryan-magers
 
-James Dowd  https://github.com/jdowd215  https://www.linkedin.com/in/james-dowd-1b080b14/
+James Dowd  https://github.com/jdowd215  https://www.linkedin.com/in/james-dowd/
 
 Kevin Hyde https://github.com/futurethang https://www.linkedin.com/in/kevin-hyde-54a71416/
 
