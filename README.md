@@ -4,6 +4,8 @@
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
 
+Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmykablitz/**
+
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
 Jarred Sutton https://github.com/circuitsyn https://www.linkedin.com/in/suttonjarred/ 
@@ -13,8 +15,6 @@ Simin Shamsfallah https://github.com/siminshams https://www.linkedin.com/in/simi
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
 Joshua Pearson www.github.com/Pearsonj www.linkedin.com/in/joshua-pearson-81a497165/
-
-Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmy-k-592228139/
 
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
