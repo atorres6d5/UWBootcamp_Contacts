@@ -35,3 +35,5 @@ Juan Ramirez https://github.com/UVXY https://www.linkedin.com/in/juan-e-ramirez/
 Craig Compton https://github.com/craigcompton www.linkedin.com/in/craig-compton
 
 Trae Shanks https://github.com/shankstee https://www.linkedin.com/feed/
+
+Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
