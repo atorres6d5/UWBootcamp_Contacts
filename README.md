@@ -4,6 +4,8 @@
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
 
+Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmy-k-592228139/
+
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
 Bryan Magers    www.github.com/bmagers   www.linkedin.com/in/bryan-magers
@@ -31,3 +33,4 @@ Juan Ramirez https://github.com/UVXY https://www.linkedin.com/in/juan-e-ramirez/
 Craig Compton https://github.com/craigcompton www.linkedin.com/in/craig-compton
 
 Trae Shanks https://github.com/shankstee https://www.linkedin.com/feed/
+
