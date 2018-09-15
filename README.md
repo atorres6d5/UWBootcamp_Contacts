@@ -1,4 +1,4 @@
-# UWBootcamp_Contacts
+# UWBootcamp Contacts
 
 ## Contact info
 
