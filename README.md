@@ -26,7 +26,8 @@ Lakshmi Strom https://github.com/lakshmistrom https://www.linkedin.com/in/lakshm
 
 Jover Lee https://github.com/joverlee521 https://www.linkedin.com/in/joverlee521/
 
-Dave Anderson https://github.com/Andydandy77
+Dave Anderson https://github.com/Andydandy77 https://twitter.com/dandyandy77 www.linkedin.com/in/david-anderson1994
+
 
 Tassa Tenhouse [www.github.com/kmtenhouse](www.github.com/kmtenhouse) [https://www.linkedin.com/in/katherine-tenhouse-30a21913/](https://www.linkedin.com/in/katherine-tenhouse-30a21913/)
 
