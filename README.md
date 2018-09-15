@@ -14,6 +14,8 @@ Simin Shamsfallah https://github.com/siminshams https://www.linkedin.com/in/simi
 
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
+Albert Snowlove http://github.com/albertcoder https://linkedin.com/in/albertcoder/
+
 Joshua Pearson www.github.com/Pearsonj www.linkedin.com/in/joshua-pearson-81a497165/
 
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
@@ -57,4 +59,3 @@ Nick Corrigan https://github.com/NBCorrigan  https://www.linkedin.com/feed/?trk=
 Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
 
 Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
-
