@@ -46,8 +46,11 @@ Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 
+Kayla Williams https://github.com/kayla312 https://www.linkedin.com/in/kayla312-williams
+
 Nick Corrigan https://github.com/NBCorrigan  https://www.linkedin.com/feed/?trk=onboarding-landing/
 
 Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
 
 Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
+
