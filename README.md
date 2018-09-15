@@ -8,6 +8,8 @@ Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salv
 
 Jarred Sutton https://github.com/circuitsyn https://www.linkedin.com/in/suttonjarred/ 
 
+Simin Shamsfallah https://github.com/siminshams https://www.linkedin.com/in/simin-shamsfallah-965802108/
+
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
 Joshua Pearson www.github.com/Pearsonj www.linkedin.com/in/joshua-pearson-81a497165/
