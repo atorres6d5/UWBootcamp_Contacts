@@ -50,4 +50,6 @@ Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
 Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
 
+Michael Pennella https://github.com/MPPennella
+
 
