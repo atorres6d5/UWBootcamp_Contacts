@@ -3,13 +3,10 @@
 ## Contact info
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
-<<<<<<< HEAD
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
 Jarred Sutton https://github.com/circuitsyn https://www.linkedin.com/in/suttonjarred/ 
-=======
 
->>>>>>> b064d73bb004580aa1f93dbc4133a4aedad470d3
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
 Joshua Pearson www.github.com/Pearsonj www.linkedin.com/in/joshua-pearson-81a497165/
