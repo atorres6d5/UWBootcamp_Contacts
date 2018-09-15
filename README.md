@@ -4,6 +4,8 @@
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
 
+Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmykablitz/**
+
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
 Jarred Sutton https://github.com/circuitsyn https://www.linkedin.com/in/suttonjarred/ 
@@ -14,13 +16,11 @@ Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
 Joshua Pearson www.github.com/Pearsonj www.linkedin.com/in/joshua-pearson-81a497165/
 
-Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmy-k-592228139/
-
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
 Bryan Magers    https://www.github.com/bmagers   www.linkedin.com/in/bryan-magers
 
-James Dowd  https://github.com/jdowd215  https://www.linkedin.com/in/james-dowd-1b080b14/
+James Dowd  https://github.com/jdowd215  https://www.linkedin.com/in/james-dowd/
 
 Kevin Hyde https://github.com/futurethang https://www.linkedin.com/in/kevin-hyde-54a71416/
 
@@ -31,7 +31,6 @@ Lakshmi Strom https://github.com/lakshmistrom https://www.linkedin.com/in/lakshm
 Jover Lee https://github.com/joverlee521 https://www.linkedin.com/in/joverlee521/
 
 Dave Anderson https://github.com/Andydandy77 https://twitter.com/dandyandy77 www.linkedin.com/in/david-anderson1994
-
 
 Tassa Tenhouse [www.github.com/kmtenhouse](www.github.com/kmtenhouse) [https://www.linkedin.com/in/katherine-tenhouse-30a21913/](https://www.linkedin.com/in/katherine-tenhouse-30a21913/)
 
@@ -47,5 +46,15 @@ Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 
-Jules Azuma https://github.com/julesazuma
-https://www.linkedin.com/in/jules-azuma-b09aa0166/
+Jules Azuma https://github.com/julesazuma https://www.linkedin.com/in/jules-azuma-b09aa0166/
+
+Andrii Gorlushko https://github.com/andrgor1 https://www.linkedin.com/in/andrg/ 
+
+Kayla Williams https://github.com/kayla312 https://www.linkedin.com/in/kayla312-williams
+
+Nick Corrigan https://github.com/NBCorrigan  https://www.linkedin.com/feed/?trk=onboarding-landing/
+
+Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
+
+Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
+
