@@ -46,3 +46,5 @@ Trae Shanks https://github.com/shankstee https://www.linkedin.com/feed/
 Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
+
+Joshua Pearson https://github.com/Pearsonj https://www.linkedin.com/in/joshua-pearson-81a497165/
