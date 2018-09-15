@@ -10,9 +10,12 @@ Kevin Hyde https://github.com/futurethang https://www.linkedin.com/in/kevin-hyde
 
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
+Ian Dunkelberg https://github.com/dunkeltron Https://www.linkedin.com/in/ian-dunkelberg-95a512167/
+
 Juan Ramirez https://github.com/UVXY https://www.linkedin.com/in/juan-e-ramirez/
 
 Craig Compton https://github.com/craigcompton www.linkedin.com/in/craig-compton
 
 Trae Shanks https://github.com/shankstee https://www.linkedin.com/feed/
+
 
