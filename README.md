@@ -9,3 +9,6 @@ Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salv
 Kevin Hyde https://github.com/futurethang https://www.linkedin.com/in/kevin-hyde-54a71416/
 
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
+
+Ed Einfeld https://github.com/edfeld
+https://www.linkedin.com/in/edeinfeld/
