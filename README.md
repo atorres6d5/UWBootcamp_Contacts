@@ -46,3 +46,7 @@ Trae Shanks https://github.com/shankstee https://www.linkedin.com/feed/
 Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
+
+Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
+
+
