@@ -32,7 +32,6 @@ Jover Lee https://github.com/joverlee521 https://www.linkedin.com/in/joverlee521
 
 Dave Anderson https://github.com/Andydandy77 https://twitter.com/dandyandy77 www.linkedin.com/in/david-anderson1994
 
-
 Tassa Tenhouse [www.github.com/kmtenhouse](www.github.com/kmtenhouse) [https://www.linkedin.com/in/katherine-tenhouse-30a21913/](https://www.linkedin.com/in/katherine-tenhouse-30a21913/)
 
 Ian Dunkelberg https://github.com/dunkeltron Https://www.linkedin.com/in/ian-dunkelberg-95a512167/
@@ -47,7 +46,8 @@ Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 
+Nick Corrigan https://github.com/NBCorrigan  https://www.linkedin.com/feed/?trk=onboarding-landing/
+
 Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
+
 Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
-
-
