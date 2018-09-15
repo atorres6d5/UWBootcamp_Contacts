@@ -46,6 +46,8 @@ Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 
+Andrii Gorlushko https://github.com/andrgor1 https://www.linkedin.com/in/andrg/ 
+
 Kayla Williams https://github.com/kayla312 https://www.linkedin.com/in/kayla312-williams
 
 Nick Corrigan https://github.com/NBCorrigan  https://www.linkedin.com/feed/?trk=onboarding-landing/
