@@ -4,7 +4,7 @@
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
 
-**Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmy-k-592228139/**
+**Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmykablitz/**
 
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
 
