@@ -3,6 +3,8 @@
 ## Contact info
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
+Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
+Bryan Magers    www.github.com/bmagers   www.linkedin.com/in/bryan-magers
 
 James Dowd  https://github.com/jdowd215  https://www.linkedin.com/in/james-dowd-1b080b14/
 
