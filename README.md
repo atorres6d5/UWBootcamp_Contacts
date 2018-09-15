@@ -16,6 +16,8 @@ Molly Vinson https://github.com/dev-mev https://www.linkedin.com/in/molly-v-7744
 
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
+Lakshmi Strom https://github.com/lakshmistrom https://www.linkedin.com/in/lakshmistrom/
+
 Jover Lee https://github.com/joverlee521 https://www.linkedin.com/in/joverlee521/
 
 Dave Anderson https://github.com/Andydandy77
