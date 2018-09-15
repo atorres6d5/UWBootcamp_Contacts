@@ -46,3 +46,6 @@ Trae Shanks https://github.com/shankstee https://www.linkedin.com/feed/
 Ed Einfeld https://github.com/edfeld https://www.linkedin.com/in/edeinfeld/
 
 Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
+
+Jules Azuma https://github.com/julesazuma
+https://www.linkedin.com/in/jules-azuma-b09aa0166/
