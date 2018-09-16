@@ -59,3 +59,5 @@ Nick Corrigan https://github.com/NBCorrigan  https://www.linkedin.com/feed/?trk=
 Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
 
 Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
+
+Jonathan Root https://github.com/jaroot32 https://www.linkedin.com/in/jonathanroot/
