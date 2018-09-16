@@ -50,6 +50,8 @@ Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 
 Jules Azuma https://github.com/julesazuma https://www.linkedin.com/in/jules-azuma-b09aa0166/
 
+Michael Pennella https://github.com/MPPennella
+
 Andrii Gorlushko https://github.com/andrgor1 https://www.linkedin.com/in/andrg/ 
 
 Kayla Williams https://github.com/kayla312 https://www.linkedin.com/in/kayla312-williams
@@ -61,3 +63,6 @@ Max Smith https://github.com/Max1mSm1th https://www.linkedin.com/in/maximsmith/
 Brian Wong https://github.com/brianhwong206 www.linkedin.com/in/brianhwong206
 
 Jonathan Root https://github.com/jaroot32 https://www.linkedin.com/in/jonathanroot/
+
+Theresa Benkman  https://github.com/konatess     https://www.linkedin.com/in/theresa-benkman
+
