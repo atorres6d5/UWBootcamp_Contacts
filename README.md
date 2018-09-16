@@ -50,6 +50,8 @@ Mona Rahmani https://github.com/monarahmani www.linkedin.com/in/monarahmani/
 
 Jules Azuma https://github.com/julesazuma https://www.linkedin.com/in/jules-azuma-b09aa0166/
 
+Michael Pennella https://github.com/MPPennella
+
 Andrii Gorlushko https://github.com/andrgor1 https://www.linkedin.com/in/andrg/ 
 
 Kayla Williams https://github.com/kayla312 https://www.linkedin.com/in/kayla312-williams
