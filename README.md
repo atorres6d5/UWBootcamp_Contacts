@@ -68,5 +68,6 @@ Theresa Benkman  https://github.com/konatess     https://www.linkedin.com/in/the
 
 Jia Fang https://github.com/phoebe1002    https://www.linkedin.com/in/jiaweiphoebefang/
 
-Kelvin Paje https://github.com/kpaje	https://www.linkedin.com/in/kelvin-paje/
+Rudy Sharar https://github.com/rsharar  https://www.linkedin.com/in/rudy-sharar-a303452a/
 
+Kelvin Paje https://github.com/kpaje	https://www.linkedin.com/in/kelvin-paje/
