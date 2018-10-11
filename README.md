@@ -4,6 +4,9 @@
 
 Aldo Torres   www.github.com/atorres6d5 www.linkedin.com/in/aldo-torres
 
+Ryan Groesch www.github.com/ryan-g13
+www.linkedin.com/in/ryan-groesch
+
 Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmykablitz/
 
 Mark Erik Salvatier https://github.com/esalvatier www.linkedin.com/in/merik-salvatier
